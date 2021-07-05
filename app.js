@@ -8,7 +8,7 @@ const mysql = require("mysql");
 const db = mysql.createPool({
   host: "localhost",
   user: "root",
-  password: "Mel907millos",
+  password: "password ",
   database: "FreshlyPicking",
 });
 
